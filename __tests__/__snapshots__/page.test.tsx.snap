@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Page and saves snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]"
+    id="home"
+  >
+    <div
+      class="text-4xl"
+      role="main-text"
+    >
+      Get 
+      <code
+        class="bg-white text-black rounded-md"
+      >
+        ...more
+      </code>
+       knowledge
+    </div>
+  </div>
+</DocumentFragment>
+`;
