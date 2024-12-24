@@ -12,7 +12,7 @@ exports[`renders Page and saves snapshot 1`] = `
     >
       Get 
       <code
-        class="bg-white text-black rounded-md"
+        class="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 hover:bg-gradient-to-r from-purple-500 hover:to-blue-1000 rounded-md"
       >
         ...more
       </code>
