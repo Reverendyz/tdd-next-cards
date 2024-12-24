@@ -1,0 +1,35 @@
+# Ignore node_modules and other dependencies
+node_modules
+npm-debug.log*
+yarn-error.log*
+
+# Ignore test and coverage directories
+coverage
+__tests__
+
+# Ignore build artifacts
+.dockerignore
+Dockerfile
+dockerfile
+*.log
+*.lock
+
+# Ignore config files used for development or testing
+jest.config.ts
+next-env.d.ts
+eslint.config.mjs
+postcss.config.mjs
+tailwind.config.ts
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore local files or directories
+.idea
+.vscode
+.DS_Store
+
+# Ignore output from build processes
+.next
+out
